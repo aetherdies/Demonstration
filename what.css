@@ -1,0 +1,4 @@
+.container .what .card {
+    display: flex; 
+    image-resolution: 200px;
+  }
